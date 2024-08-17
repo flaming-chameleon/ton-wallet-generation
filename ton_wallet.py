@@ -16,7 +16,7 @@ def generate_wallets(count):
 
 # Main script
 if __name__ == "__main__":
-    print("""
+    print(r"""
           
 
   _    _ _     _     _             _____          _      
